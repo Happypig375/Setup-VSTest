@@ -1,6 +1,6 @@
-name: 'Setup VSTest.Console.exe'
+name: 'Setup VSTest.Console.exe (Temporary fork that uses VSTest v2 instead of v1)'
 description: 'Uses VSWhere.exe to locate latest VSTest.Console & put it into the PATH'
-author: 'Malcolm Nixon'
+author: 'Happypig375'
 runs:
   using: 'node12'
   main: 'lib/main.js'
